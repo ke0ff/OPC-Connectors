@@ -14,3 +14,6 @@ in cut lengths.  The raw cable is PN HFBR-RUD100Z (100m).
 Secure the cable to the housing with an over-wrap tape (such as 3M Scotch-88) and small cable ties.
 
 See www.ke0ff.org (scroll to the project titled, "ICOM OPC-172 Clone") for more detail.
+
+# OPC179_CONN (OPC-179_AI.pdf)
+Assembly Instruction (includes PL) for the 15-conductor ICOM OPC179 module cable.
